@@ -1,0 +1,12 @@
+{
+    "name": "user/llc04-ecommerce",
+    "description": "Ecommerce platform using php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mubtasim Shahriar",
+            "email": "mubtasim91@gmail.com"
+        }
+    ],
+    "require": {}
+}
